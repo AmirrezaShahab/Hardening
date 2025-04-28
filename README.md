@@ -30,5 +30,5 @@ Clone this repository:
    ```bash
    https://github.com/AmirrezaShahab/Hardening.git
    ```
-   cd linux-server-hardening
+   cd Hardening
 
