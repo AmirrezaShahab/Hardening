@@ -28,6 +28,7 @@ The goal is to improve the system's security posture, minimize vulnerabilities, 
 Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/linux-server-hardening.git
+   https://github.com/AmirrezaShahab/Hardening.git
+   ```
    cd linux-server-hardening
 
